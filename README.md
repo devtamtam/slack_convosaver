@@ -38,9 +38,12 @@ The script will:
 
 ## To See the BackUP
 
-Check **slack-backup-viewer**
+Check **slack-backup-viewer** for userfirendly GUI
 
 https://github.com/devtamtam/slack-backup-viewer.git
+
+![image](https://github.com/user-attachments/assets/588ec4a5-1849-49be-aebb-ec116a2868b7)
+
 
 ## Note
 
