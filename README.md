@@ -38,7 +38,7 @@ The script will:
 
 ## To See the BackUP
 
-Check **slack-backup-viewer** for userfirendly GUI
+Check **slack-backup-viewer** :: user firendly GUI
 
 https://github.com/devtamtam/slack-backup-viewer.git
 
