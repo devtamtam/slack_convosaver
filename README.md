@@ -36,7 +36,7 @@ The script will:
 - Download any attached files to a timestamped directory
 - Properly handle binary files and Japanese text
 
-###To See the BackUP
+## To See the BackUP
 
 Check **slack-backup-viewer**
 
