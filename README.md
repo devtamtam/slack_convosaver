@@ -1,4 +1,4 @@
-# Slack Conversation Saver
+# Slack Conversation Saver **ConvoSaver**
 
 A Python script to archive Slack conversations and download associated files.
 
