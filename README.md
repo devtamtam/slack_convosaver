@@ -36,6 +36,12 @@ The script will:
 - Download any attached files to a timestamped directory
 - Properly handle binary files and Japanese text
 
+###To See the BackUP
+
+Check **slack-backup-viewer**
+
+https://github.com/devtamtam/slack-backup-viewer.git
+
 ## Note
 
 Make sure not to commit your `settings.json` file as it contains sensitive information.
