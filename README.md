@@ -13,7 +13,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 2. Install required packages:
 ```bash
 pip install -r requirements.txt
-pip install slack_sdk requests
+
 ```
 
 3. Create a `settings.json` file with your Slack credentials:
