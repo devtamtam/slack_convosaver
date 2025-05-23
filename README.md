@@ -12,6 +12,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 2. Install required packages:
 ```bash
+pip install -r requirements.txt
 pip install slack_sdk requests
 ```
 
@@ -47,4 +48,5 @@ https://github.com/devtamtam/slack-backup-viewer.git
 
 ## Note
 
-Make sure not to commit your `settings.json` file as it contains sensitive information.
+- Make sure not to commit your `settings.json` file as it contains sensitive information.
+- This script is designed for use with public channels and private channels (group chats). It does not support retrieving message history from direct messages (DMs). This is due to privacy limitations enforced by the Slack API, which prevent bots from being added to existing DMs between users
